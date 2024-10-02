@@ -1,5 +1,5 @@
 import React from 'react';
-import Inicio from '../sections/Inicio'; // Ajusta la ruta según sea necesario
+import Inicio from '/src/sections/Inicio'; // Ajusta la ruta según sea necesario
 
 const Home = () => {
   return (
